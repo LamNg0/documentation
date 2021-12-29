@@ -62,3 +62,5 @@ Links below
 [linguistic]: <https://github.com/github/linguist>
 
 [new-docs-repo]: <https://github.com/mautic/mautic-documentation>
+//'This is my first contribution'
+//'A new line added for testing purposes'
